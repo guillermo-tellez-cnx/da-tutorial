@@ -1,4 +1,2 @@
 mountpoints:
-  /:
-    url: https://content.da.live/guillermo-tellez-cnx/da-tutorial/
-    type: markup
+  /: https://drive.google.com/drive/folders/1r6wnLBxb1JLeZ2qDOdLXEqOSbA1nGZhE
